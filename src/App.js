@@ -3,8 +3,6 @@ import "./App.css";
 import { useEffect, useState } from "react";
 import Select from "react-select";
 import CarouselCom from "./Component/carousel";
-import Responsive from "./Component/slider";
-import SimpleSlider from "./Component/slider";
 
 function App() {
   const [data, setData] = useState();
